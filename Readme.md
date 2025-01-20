@@ -1,6 +1,6 @@
-# Videotube
+# Tubetime
 
-Videotube is a complex backend project built with Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, and more. It serves as the backbone for a video hosting website similar to YouTube, equipped with features like user authentication, video upload, like/dislike, comments, subscriptions, and more.
+Tubetime is a complex backend project built with Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, and more. It is the backbone for a video hosting website similar to YouTube, equipped with features like user authentication, video upload, like/dislike, comments, subscriptions, and more.
 
 The Videotube project includes a powerful aggregation pipeline designed to extract relevant information from the MongoDB database. This pipeline is crafted to efficiently process and transform data, providing valuable insights for various functionalities within the video hosting platform.
 
